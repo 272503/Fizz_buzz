@@ -1,4 +1,4 @@
-﻿namespace C__.NET
+﻿namespace Fizz_buzz
 {
     internal class Program
     {

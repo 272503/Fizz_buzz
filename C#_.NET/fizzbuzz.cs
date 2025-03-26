@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace C__.NET
+namespace Fizz_buzz
 {
     internal class fizzbuzz
     {
